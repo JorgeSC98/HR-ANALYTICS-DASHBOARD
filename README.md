@@ -5,4 +5,4 @@ The Dashboard includes different graphics showing specific KPIs,  the principal 
 
 The data used for the interactive dashboard contains around 15k rows and different columns on the HR department.
 
-![Dashboard](https://github.com/JorgeSC98/Neural-Translation-Model-Eng-Ger/blob/main/example1.png?raw=true)
+![Dashboard](https://github.com/JorgeSC98/HR-ANALYTICS-DASHBOARD/blob/main/Dashboard1.png)
